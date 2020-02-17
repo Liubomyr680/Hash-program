@@ -1,0 +1,10 @@
+﻿  AutoTest.cpp
+c:\users\любомир\source\repos\consolehashprogram\consolehashprogram\autotest.cpp(14): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Hash.cpp
+c:\users\любомир\source\repos\consolehashprogram\consolehashprogram\hash.cpp(21): warning C4018: <: несоответствие типов со знаком и без знака
+  Создание кода
+  1 of 225 functions ( 0.4%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  ConsoleHashProgram.vcxproj -> C:\Users\Любомир\source\repos\ConsoleHashProgram\Release\ConsoleHashProgram.exe

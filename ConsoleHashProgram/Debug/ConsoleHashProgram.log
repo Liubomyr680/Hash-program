@@ -1,0 +1,5 @@
+﻿  ConsoleHashProgram.cpp
+  Hash.cpp
+c:\users\любомир\source\repos\consolehashprogram\consolehashprogram\hash.cpp(21): warning C4018: <: несоответствие типов со знаком и без знака
+  Создание кода...
+  ConsoleHashProgram.vcxproj -> C:\Users\Любомир\source\repos\ConsoleHashProgram\Debug\ConsoleHashProgram.exe
